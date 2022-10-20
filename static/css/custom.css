@@ -1,0 +1,18 @@
+/*-- Use For Custom Styling --*/
+.navbar-nav .nav-link {
+  /* letter-spacing: 4px; */
+}
+
+.testimonial-para {
+}
+
+.owl-stage {
+    display: flex;
+}
+
+.owl-item {
+  min-height: 100% !important;
+  float: none !important;
+  clear: both !important;
+  padding: 0 5px;
+}
